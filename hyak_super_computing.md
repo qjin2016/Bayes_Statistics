@@ -15,5 +15,10 @@ nodestate -a stf
 
 
 start an interactive session:
-
+```
 qsub -I -q build
+```
+
+some common scripts:
+
+https://github.com/UW-HPC/Hyak-scripts
