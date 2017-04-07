@@ -34,3 +34,5 @@ vignettes/*.pdf
 
 # data/books/other resources
 /others/
+.DS_Store
+.ipynb_checkpoints/
