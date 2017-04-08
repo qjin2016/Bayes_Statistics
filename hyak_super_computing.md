@@ -22,3 +22,5 @@ qsub -I -q build
 some common scripts:
 
 https://github.com/UW-HPC/Hyak-scripts
+
+http://wiki.cac.washington.edu/display/hyakusers/Hyak+Software
