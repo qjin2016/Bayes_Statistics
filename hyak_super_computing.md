@@ -19,6 +19,25 @@ start an interactive session:
 qsub -I -q build
 ```
 
+check available softwares:
+```
+module avail
+```
+
+
+load module\run software:
+```
+module load <software name>
+```
+
+
+install new packages in python:
+```
+pip install xyz --user # install in home directory
+```
+
+
+
 some common scripts:
 
 https://github.com/UW-HPC/Hyak-scripts
